@@ -1,0 +1,7 @@
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\CodingTest\CodingTest\bin\Debug\CodingTest.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\CodingTest\CodingTest\bin\Debug\CodingTest.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\CodingTest\CodingTest\bin\Debug\nunit.framework.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\CodingTest\CodingTest\bin\Debug\nunit.framework.xml
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\CodingTest\CodingTest\obj\Debug\CodingTest.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\CodingTest\CodingTest\obj\Debug\CodingTest.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\CodingTest\CodingTest\obj\Debug\CodingTest.pdb

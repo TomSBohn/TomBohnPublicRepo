@@ -1,0 +1,6 @@
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\FindPrefix\FindPrefix\bin\Debug\FindPrefix.exe.config
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\FindPrefix\FindPrefix\bin\Debug\FindPrefix.exe
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\FindPrefix\FindPrefix\bin\Debug\FindPrefix.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\FindPrefix\FindPrefix\obj\Debug\FindPrefix.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\FindPrefix\FindPrefix\obj\Debug\FindPrefix.exe
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\FindPrefix\FindPrefix\obj\Debug\FindPrefix.pdb

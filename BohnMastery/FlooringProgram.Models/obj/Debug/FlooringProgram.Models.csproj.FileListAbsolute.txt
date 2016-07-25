@@ -1,0 +1,5 @@
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.csprojResolveAssemblyReference.cache

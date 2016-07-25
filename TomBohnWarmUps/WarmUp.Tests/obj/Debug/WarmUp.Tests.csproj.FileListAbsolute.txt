@@ -1,0 +1,9 @@
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\WarmUp.Tests\bin\Debug\WarmUp.Tests.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\WarmUp.Tests\bin\Debug\WarmUp.Tests.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\WarmUp.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\WarmUp.Tests\bin\Debug\TomBohnWarmUps.exe
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\WarmUp.Tests\bin\Debug\TomBohnWarmUps.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\WarmUp.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\WarmUp.Tests\obj\Debug\WarmUp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\WarmUp.Tests\obj\Debug\WarmUp.Tests.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\WarmUp.Tests\obj\Debug\WarmUp.Tests.pdb

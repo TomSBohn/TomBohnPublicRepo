@@ -1,0 +1,14 @@
+﻿@using System.Web.UI.WebControls
+
+@{
+    ViewBag.Title = "LuckySevensMVC";
+}
+
+<h2>LuckySevensMVC</h2>
+
+@using (Html.BeginForm())
+{
+    <p>Starting Bet: @Html.TextBox("amount")</p>
+    <p><button>Play</button>
+    </p>
+}

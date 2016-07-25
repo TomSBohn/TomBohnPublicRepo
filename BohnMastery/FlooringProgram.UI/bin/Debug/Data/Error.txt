@@ -1,0 +1,1136 @@
+Message :The method or operation is not implemented.<br/>
+StackTrace :   at FlooringProgram.Data.InMemoryRepo.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\InMemoryRepository.cs:line 28
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 37
+Date :7/1/2016 3:39:03 PM
+
+-----------------------------------------------------------------------------
+
+Message :The method or operation is not implemented.<br/>
+StackTrace :   at FlooringProgram.Data.InMemoryRepo.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\InMemoryRepository.cs:line 28
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 37
+Date :7/1/2016 3:41:47 PM
+
+-----------------------------------------------------------------------------
+
+Message :The method or operation is not implemented.<br/>
+StackTrace :   at FlooringProgram.Data.InMemoryRepo.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\InMemoryRepository.cs:line 28
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 37
+Date :7/1/2016 3:47:28 PM
+
+-----------------------------------------------------------------------------
+
+Message :The method or operation is not implemented.<br/>
+StackTrace :   at FlooringProgram.Data.InMemoryRepo.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\InMemoryRepository.cs:line 29
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 37
+Date :7/1/2016 4:04:36 PM
+
+-----------------------------------------------------------------------------
+
+Message :The method or operation is not implemented.<br/>
+StackTrace :   at FlooringProgram.Data.InMemoryRepo.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\InMemoryRepository.cs:line 29
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 37
+Date :7/1/2016 4:04:44 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 68
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 108
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/6/2016 11:48:19 AM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 3:59:58 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:01:44 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:13:16 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:13:46 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:18:02 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:22:32 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:27:43 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:28:01 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 42
+Date :7/8/2016 4:28:14 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:38:03 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:38:15 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 42
+Date :7/8/2016 4:38:30 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:48:50 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:49:11 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:49:18 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 42
+Date :7/8/2016 4:49:48 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 42
+Date :7/8/2016 4:50:22 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 42
+Date :7/8/2016 4:50:37 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 42
+Date :7/8/2016 4:52:33 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:52:41 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 65
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 105
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 4:52:57 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 71
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 116
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 5:26:13 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 71
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 116
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 5:26:25 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 71
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 42
+Date :7/8/2016 5:26:37 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 71
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 116
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 5:27:50 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 71
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 116
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 5:28:03 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 71
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 116
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/8/2016 5:28:56 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 72
+   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 117
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/9/2016 10:36:14 AM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 76
+Date :7/9/2016 10:40:34 AM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 130
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/9/2016 10:40:34 AM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 76
+Date :7/9/2016 10:43:39 AM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 130
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/9/2016 10:43:48 AM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 76
+Date :7/9/2016 10:45:30 AM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 130
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/9/2016 10:45:30 AM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 76
+Date :7/9/2016 10:45:42 AM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 130
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/9/2016 10:45:42 AM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 76
+Date :7/9/2016 10:45:57 AM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 75
+Date :7/11/2016 7:09:12 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 129
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/11/2016 7:09:12 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 75
+Date :7/11/2016 7:09:24 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 129
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/11/2016 7:09:24 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 75
+Date :7/11/2016 7:09:34 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 75
+Date :7/11/2016 7:09:47 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 86
+Date :7/11/2016 7:35:11 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 140
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/11/2016 7:35:11 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 86
+Date :7/11/2016 7:35:31 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 140
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/11/2016 7:35:31 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 86
+Date :7/11/2016 7:35:40 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 86
+Date :7/11/2016 7:37:19 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 140
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/11/2016 7:37:19 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 86
+Date :7/11/2016 7:37:31 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 140
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/11/2016 7:37:31 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 86
+Date :7/11/2016 7:41:29 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 140
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/11/2016 7:41:29 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 86
+Date :7/11/2016 7:41:39 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 140
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/11/2016 7:41:39 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 86
+Date :7/11/2016 7:45:23 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 140
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/11/2016 7:45:23 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 86
+Date :7/11/2016 7:45:34 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 140
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/11/2016 7:45:34 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamReader..ctor(String path)
+   at System.IO.File.OpenText(String path)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 86
+Date :7/11/2016 7:56:14 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 140
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/11/2016 7:56:49 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.CreateNextOrderNumber(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 142
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 80
+Date :7/11/2016 8:03:32 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 95
+Date :7/11/2016 8:24:03 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 95
+Date :7/11/2016 8:24:18 PM
+
+-----------------------------------------------------------------------------
+
+Message :The given path's format is not supported.<br/>
+StackTrace :   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at FlooringProgram.Data.FileRepository.EditOrder(OrderInfo order) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 60
+   at FlooringProgram.BLL.OrderOperation.EditOrder(OrderInfo order) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 144
+Date :7/14/2016 1:54:33 PM
+
+-----------------------------------------------------------------------------
+
+Message :Could not find a part of the path 'C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\bin\Debug\Orders\Orders_07142016.txt'.<br/>
+StackTrace :   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at FlooringProgram.Data.FileRepository.EditOrder(OrderInfo order) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 60
+   at FlooringProgram.BLL.OrderOperation.EditOrder(OrderInfo order) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 144
+Date :7/14/2016 2:05:51 PM
+
+-----------------------------------------------------------------------------
+
+Message :Unable to cast object of type 'FlooringProgram.Models.ProductInfo' to type 'System.IConvertible'.<br/>
+StackTrace :   at System.Convert.ToDecimal(Object value)
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 77
+Date :7/15/2016 3:44:13 PM
+
+-----------------------------------------------------------------------------
+
+Message :Unable to cast object of type 'FlooringProgram.Models.ProductInfo' to type 'System.IConvertible'.<br/>
+StackTrace :   at System.Convert.ToDecimal(Object value)
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 77
+Date :7/15/2016 3:44:36 PM
+
+-----------------------------------------------------------------------------
+
+Message :Unable to cast object of type 'FlooringProgram.Models.ProductInfo' to type 'System.IConvertible'.<br/>
+StackTrace :   at System.Convert.ToDecimal(Object value)
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 77
+Date :7/15/2016 3:47:05 PM
+
+-----------------------------------------------------------------------------
+
+Message :Unable to cast object of type 'FlooringProgram.Models.ProductInfo' to type 'System.IConvertible'.<br/>
+StackTrace :   at System.Convert.ToDecimal(Object value)
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 77
+Date :7/15/2016 3:49:14 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 95
+Date :7/20/2016 4:29:54 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 95
+Date :7/20/2016 4:37:27 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 95
+Date :7/20/2016 4:37:28 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 95
+Date :7/20/2016 4:38:17 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 95
+Date :7/20/2016 4:38:17 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 95
+Date :7/20/2016 4:41:04 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 95
+Date :7/20/2016 4:41:04 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 95
+Date :7/20/2016 4:41:14 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseDecimal(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Convert.ToDecimal(String value)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 95
+Date :7/20/2016 4:41:21 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.WriteOrders(DateTime date) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 40
+   at FlooringProgram.Data.FileRepository.CreateOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 20
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 88
+Date :7/20/2016 5:03:50 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.WriteOrders(DateTime date) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 40
+   at FlooringProgram.Data.FileRepository.CreateOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 20
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 88
+Date :7/20/2016 5:05:23 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.WriteOrders(DateTime date) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 39
+   at FlooringProgram.Data.FileRepository.CreateOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 20
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 88
+Date :7/20/2016 5:07:35 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.WriteOrders(DateTime date) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 39
+   at FlooringProgram.Data.FileRepository.CreateOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 20
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 88
+Date :7/20/2016 5:12:57 PM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.WriteOrders(DateTime date) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 44
+   at FlooringProgram.Data.FileRepository.CreateOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 20
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 88
+Date :7/20/2016 5:31:14 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/21/2016 8:54:08 AM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/21/2016 8:54:50 AM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/21/2016 8:54:50 AM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.WriteOrders(DateTime date) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 45
+   at FlooringProgram.Data.FileRepository.CreateOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 20
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 88
+Date :7/21/2016 8:55:16 AM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/21/2016 9:01:44 AM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/21/2016 9:06:12 AM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate)
+Date :7/21/2016 9:07:47 AM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.WriteOrders(DateTime date)
+   at FlooringProgram.Data.FileRepository.CreateOrder(OrderInfo newOrder)
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 88
+Date :7/21/2016 9:07:58 AM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/21/2016 4:54:48 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/21/2016 4:58:07 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/21/2016 5:00:18 PM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 8:37:52 AM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 8:37:54 AM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.WriteOrders(DateTime date) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 45
+   at FlooringProgram.Data.FileRepository.CreateOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 20
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 88
+Date :7/22/2016 8:37:54 AM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 8:51:13 AM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 8:52:45 AM
+
+-----------------------------------------------------------------------------
+
+Message :Input string was not in a correct format.<br/>
+StackTrace :   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 8:53:30 AM
+
+-----------------------------------------------------------------------------
+
+Message :Object reference not set to an instance of an object.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.WriteOrders(DateTime date, List`1 orders) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 45
+   at FlooringProgram.Data.FileRepository.CreateOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 20
+   at FlooringProgram.BLL.OrderOperation.CreateNewOrder(OrderInfo newOrder) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 88
+Date :7/22/2016 8:54:07 AM
+
+-----------------------------------------------------------------------------
+
+Message :Index was outside the bounds of the array.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 9:10:13 AM
+
+-----------------------------------------------------------------------------
+
+Message :Index was outside the bounds of the array.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 1:17:39 PM
+
+-----------------------------------------------------------------------------
+
+Message :Index was outside the bounds of the array.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 1:17:50 PM
+
+-----------------------------------------------------------------------------
+
+Message :Index was outside the bounds of the array.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 1:18:14 PM
+
+-----------------------------------------------------------------------------
+
+Message :Index was outside the bounds of the array.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 1:18:29 PM
+
+-----------------------------------------------------------------------------
+
+Message :Index was outside the bounds of the array.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 1:18:29 PM
+
+-----------------------------------------------------------------------------
+
+Message :Index was outside the bounds of the array.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 1:22:38 PM
+
+-----------------------------------------------------------------------------
+
+Message :Index was outside the bounds of the array.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 3:58:47 PM
+
+-----------------------------------------------------------------------------
+
+Message :Index was outside the bounds of the array.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 3:59:14 PM
+
+-----------------------------------------------------------------------------
+
+Message :Index was outside the bounds of the array.<br/>
+StackTrace :   at FlooringProgram.Data.FileRepository.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\FileRepository.cs:line 100
+Date :7/22/2016 3:59:14 PM
+
+-----------------------------------------------------------------------------
+

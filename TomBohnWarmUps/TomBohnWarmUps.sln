@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TomBohnWarmUps", "TomBohnWarmUps\TomBohnWarmUps.csproj", "{7DF7F892-5F55-49B4-AF23-DAEC341D1C7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarmUp.Tests", "WarmUp.Tests\WarmUp.Tests.csproj", "{0F3015DE-0524-45F8-81D3-4C33F45FAD6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF7F892-5F55-49B4-AF23-DAEC341D1C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF7F892-5F55-49B4-AF23-DAEC341D1C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF7F892-5F55-49B4-AF23-DAEC341D1C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF7F892-5F55-49B4-AF23-DAEC341D1C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3015DE-0524-45F8-81D3-4C33F45FAD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3015DE-0524-45F8-81D3-4C33F45FAD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3015DE-0524-45F8-81D3-4C33F45FAD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3015DE-0524-45F8-81D3-4C33F45FAD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

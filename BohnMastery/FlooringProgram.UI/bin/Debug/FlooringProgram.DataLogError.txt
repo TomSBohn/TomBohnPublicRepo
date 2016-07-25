@@ -1,0 +1,7 @@
+Message :The method or operation is not implemented.<br/>
+StackTrace :   at FlooringProgram.Data.InMemoryRepo.GetOrdersByDate(DateTime orderdate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.Data\InMemoryRepository.cs:line 28
+   at FlooringProgram.BLL.OrderOperation.DisplayOrder(DateTime orderDate) in C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\Operations.cs:line 37
+Date :7/1/2016 2:37:34 PM
+
+-----------------------------------------------------------------------------
+

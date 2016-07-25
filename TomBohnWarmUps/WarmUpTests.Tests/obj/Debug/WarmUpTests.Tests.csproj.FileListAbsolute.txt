@@ -1,0 +1,2 @@
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\WarmUpTests.Tests\obj\Debug\WarmUpTests.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\WarmUpTests.Tests\bin\Debug\WarmUpTests.Tests.exe.config

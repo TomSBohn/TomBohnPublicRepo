@@ -1,0 +1,9 @@
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\bin\Debug\FlooringProgram.BLL.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\bin\Debug\FlooringProgram.BLL.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\bin\Debug\FlooringProgram.Data.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\bin\Debug\FlooringProgram.Models.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\bin\Debug\FlooringProgram.Data.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\bin\Debug\FlooringProgram.Models.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\obj\Debug\FlooringProgram.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\obj\Debug\FlooringProgram.BLL.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.BLL\obj\Debug\FlooringProgram.BLL.pdb

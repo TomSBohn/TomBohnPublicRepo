@@ -1,0 +1,6 @@
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\BohnMastery\bin\Debug\BohnMastery.exe.config
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\BohnMastery\bin\Debug\BohnMastery.exe
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\BohnMastery\bin\Debug\BohnMastery.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\BohnMastery\obj\Debug\BohnMastery.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\BohnMastery\obj\Debug\BohnMastery.exe
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\BohnMastery\obj\Debug\BohnMastery.pdb

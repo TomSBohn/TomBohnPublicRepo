@@ -1,0 +1,6 @@
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\TomBohnWarmUps\bin\Debug\TomBohnWarmUps.exe.config
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\TomBohnWarmUps\bin\Debug\TomBohnWarmUps.exe
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\TomBohnWarmUps\bin\Debug\TomBohnWarmUps.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\TomBohnWarmUps\obj\Debug\TomBohnWarmUps.exe
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\TomBohnWarmUps\obj\Debug\TomBohnWarmUps.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomBohnWarmUps\TomBohnWarmUps\obj\Debug\TomBohnWarmUps.csprojResolveAssemblyReference.cache

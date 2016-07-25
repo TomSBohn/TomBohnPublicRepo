@@ -1,0 +1,12 @@
+C:\Users\Apprentice\Documents\bitbucket\tom-bohn-individual-work\TomsTicTacToe\TomsTicTacToe\bin\Debug\TomsTicTacToe.exe.config
+C:\Users\Apprentice\Documents\bitbucket\tom-bohn-individual-work\TomsTicTacToe\TomsTicTacToe\obj\Debug\TomsTicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\bitbucket\tom-bohn-individual-work\TomsTicTacToe\TomsTicTacToe\bin\Debug\TomsTicTacToe.exe
+C:\Users\Apprentice\Documents\bitbucket\tom-bohn-individual-work\TomsTicTacToe\TomsTicTacToe\bin\Debug\TomsTicTacToe.pdb
+C:\Users\Apprentice\Documents\bitbucket\tom-bohn-individual-work\TomsTicTacToe\TomsTicTacToe\obj\Debug\TomsTicTacToe.exe
+C:\Users\Apprentice\Documents\bitbucket\tom-bohn-individual-work\TomsTicTacToe\TomsTicTacToe\obj\Debug\TomsTicTacToe.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomsTicTacToe\TomsTicTacToe\bin\Debug\TomsTicTacToe.exe.config
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomsTicTacToe\TomsTicTacToe\obj\Debug\TomsTicTacToe.exe
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomsTicTacToe\TomsTicTacToe\obj\Debug\TomsTicTacToe.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomsTicTacToe\TomsTicTacToe\bin\Debug\TomsTicTacToe.exe
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomsTicTacToe\TomsTicTacToe\bin\Debug\TomsTicTacToe.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\TomsTicTacToe\TomsTicTacToe\obj\Debug\TomsTicTacToe.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\obj\Debug\FlooringProgram.UI.csprojResolveAssemblyReference.cache
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\bin\Debug\FlooringProgram.UI.exe.config
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\bin\Debug\FlooringProgram.UI.exe
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\bin\Debug\FlooringProgram.UI.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\bin\Debug\FlooringProgram.BLL.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\bin\Debug\FlooringProgram.Data.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\bin\Debug\FlooringProgram.Models.dll
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\bin\Debug\FlooringProgram.BLL.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\bin\Debug\FlooringProgram.Data.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\bin\Debug\FlooringProgram.Models.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\obj\Debug\FlooringProgram.UI.exe
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\obj\Debug\FlooringProgram.UI.pdb
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\bin\Debug\TextFileReferences\products.txt
+C:\Users\Apprentice\Documents\_repos\tom-bohn-individual-work\BohnMastery\FlooringProgram.UI\bin\Debug\TextFileReferences\taxes.txt
